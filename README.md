@@ -1,4 +1,4 @@
-Esta es una aplicación web calculadora simple que permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división. está construida con React y Vite, este ultimo, un entorno de desarrollo web rápido y liviano utilizado en la actualidad, la integración de Vite con React permite construir aplicaciones web de manera más rápida y eficiente, mejorando la productividad y experiencia del desarrollo en general.
+- Esta es una aplicación web calculadora simple que permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división. está construida con React y Vite, este ultimo, un entorno de desarrollo web rápido y liviano utilizado en la actualidad, la integración de Vite con React permite construir aplicaciones web de manera más rápida y eficiente, mejorando la productividad y experiencia del desarrollo en general.
 
 🔗 <a href="https://marceloadan73.github.io/Calculadora/">Ver Demo</a>
 
