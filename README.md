@@ -1,20 +1,20 @@
-- Esta es una aplicación web calculadora simple que permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división. está construida con React y Vite, este ultimo, un entorno de desarrollo web rápido y liviano utilizado en la actualidad, la integración de Vite con React permite construir aplicaciones web de manera más rápida y eficiente, mejorando la productividad y experiencia del desarrollo en general.
+- This is a simple calculator application that allows you to perform basic mathematical operations such as addition, subtraction, multiplication and division. Built with React and Vite, the latter is a fast and lightweight web development environment used today, the integration of Vite with React allows you to build web applications faster and more efficiently, improving productivity and development experience in general.
 
 <img src="./calculadora.png" alt="imagen del proyecto">
 
 
-🔗 <a href="https://marceloadan73.github.io/Calculadora-React-Vite/">Ver Demo en Vivo</a>
+🔗 <a href="https://marceloadan73.github.io/Calculadora-React-Vite/">See in operation</a>
 
-Los pasos para instalar Vite y crear una aplicación en React son:
+The steps to install Vite and create an application in React are:
 
-1-Tener Node.js y npm instalados en tu computadora. Si no los tenes, descárgalos e instálalos desde el sitio oficial de Node.js (https://nodejs.org).
+1-Have Node.js and npm installed on your computer. (https://nodejs.org).
 
-2-Instalar Vite, desde el terminal ejecutar el siguiente comando para instalar Vite de manera global en tu computadora: npm install -g vite.
+2-Install Vite, from the terminal: npm install -g vite.
 
-3-Creación de una nueva aplicación, desde la terminal, crear una nueva carpeta para el proyecto y luego acceder a ella con el comando cd nombre_de_la_carpeta. Ejecutar el siguiente comando para crear la nueva aplicación de React con Vite: npm init vite@latest. Seguir las instrucciones para configurar la aplicación, incluyendo el nombre del proyecto, el gestor de paquetes (seleccionar npm) y el framework (seleccionar react). Después de que se haya creado la aplicación, acceder a la carpeta del proyecto con cd nombre_de_tu_proyecto.
+3-Creating a new application, from the terminal, create a new folder for the project and then access it with the command cd folder_name. Run the following command to create the new React application with Vite: npm init vite@latest. Follow the instructions to configure the application, including the project name, package manager (select npm), and framework (select react). After the application has been created, access the project folder with cd your_project_name.
 
-4-Instalación de dependencias, en la carpeta de tu proyecto, ejecuta el comando npm install para instalar las dependencias necesarias.
+4-Installing dependencies, in your project folder, run the npm install command to install the necessary dependencies.
 
-5-Ejecución de la aplicación, ejecutar el comando npm run dev para iniciar. Esto abrirá la aplicación en tu navegador predeterminado, Si todo está configurado correctamente, deberías ver la página de inicio predeterminada de React + Vite. Podes comenzar a editar los archivos en la carpeta src y ver los cambios en tiempo real en tu navegador.
+5-Running the application, run the npm run dev command to start. This will open the app in your default browser. If everything is set up correctly, you should see the default React + Vite home page. You can start editing the files in the src folder and see the changes in real time in your browser.
 
-6-Para que esta calculadora funcione correctamente operando los números que ingresamos es neceseario configurar "mathjs" desde el terminal abriendo un nuevo "PowerShell" y a continuacion ejecutando el comando "nmp install mathjs", su correcta instalación se puede verificar en el archivo "package-lock.jason"
+6-For this calculator to work correctly operating the numbers we enter, it is necessary to configure "mathjs" from the terminal by opening a new "PowerShell" and then executing the command "nmp install mathjs", its correct installation can be verified in the "package" file. -lock.jason"
