@@ -2,8 +2,6 @@
 
 <img src="./calculadora.png" alt="imagen del proyecto">
 
-<ahttps://marceloadan73.github.io/Calculator-React-Vite/>
-
 The steps to install Vite and create an application in React are:
 
 1-Have Node.js and npm installed on your computer. (https://nodejs.org).
